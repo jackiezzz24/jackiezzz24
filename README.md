@@ -37,5 +37,3 @@ Hi there, I'm Jiaqi! 👋
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 
-## GitHub Stats 📈
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jackiezzz24)](https://github.com/jackiezzz24)
