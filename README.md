@@ -6,10 +6,12 @@ Hi there, I'm Jiaqi! 👋
 
 ## I'm a Software Engineer 💻
 
-- 🔭 I’m currently looking for 2023 Summer SDE intership
-- 🌱 I’m currently learning Computer Science at Northeastern University - San Jose 
-- 🤔 I’m looking for help with career change 
-
+- 🤝 I’m currently looking for 2023 Summer SDE intership
+- 🔭 I’m currently working on [Full Stack Social Network Web Application Project](https://github.com/jackiezzz24/chatty-backend)
+- 🌱 I’m currently learning Computer Science at Northeastern University - San Jose
+- 📫 How to reach me **jiaqi.zhao24@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Xun4Oub1RLWLbCLzNW5ALsO5FCsP_YNA/view?usp=share_link)
+ 
 ## Connect with me 🤝
 
 <a href="https://www.linkedin.com/in/jiaqi-zhao-sde/"><img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="21px"/></a>
@@ -37,3 +39,7 @@ Hi there, I'm Jiaqi! 👋
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 
+
+## GitHub Stats 📈
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jackiezzz24&show_icons=true&locale=en" alt="jackiezzz24" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackiezzz24&show_icons=true&locale=en&layout=compact" alt="jackiezzz24" /></p>
