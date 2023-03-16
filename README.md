@@ -6,7 +6,7 @@ Hi there, I'm Jiaqi! 👋
 
 ## I'm a Software Engineer 💻
 
-- 🤝 I’m currently looking for 2023 Summer SDE intership
+- 🤝 I’m currently looking for 2023 SDE intership/Coop
 - 🔭 I’m currently working on [Full Stack Social Network Web Application Project](https://github.com/jackiezzz24/chatty-backend)
 - 🌱 I’m currently learning Computer Science at Northeastern University - San Jose
 - 📫 How to reach me **jiaqi.zhao24@gmail.com**
