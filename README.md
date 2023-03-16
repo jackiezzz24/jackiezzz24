@@ -9,7 +9,7 @@ Hi there, I'm Jiaqi! 👋
 - 🤝 I’m currently looking for 2023 SDE internship/Coop
 - 🔭 I’m currently working on [Full Stack Social Network Web Application Project](https://github.com/jackiezzz24/chatty-backend)
 - 🌱 I’m currently learning Computer Science at Northeastern University - San Jose
-- 📫 How to reach me **jiaqi.zhao24@gmail.com**
+- 📫 You can reach me at **jiaqi.zhao24@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Xun4Oub1RLWLbCLzNW5ALsO5FCsP_YNA/view?usp=share_link)
  
 ## Connect with me 🤝
