@@ -10,7 +10,7 @@ Hi there, I'm Jiaqi! 👋
 - 🔭 I’m currently working on [Full Stack Social Network Web Application Project](https://github.com/jackiezzz24/chatty-backend)
 - 🌱 I’m currently learning Computer Science at Northeastern University - San Jose
 - 📫 You can reach me at **jiaqi.zhao24@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yeZhi1KZjR_oA1PVGSJ6UIetLS5N_1xt/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19PoC60xU8BS7un_bBg4Pm4oZoKxy183l/view?usp=drive_link)
  
 ## Connect with me 🤝
 
