@@ -7,7 +7,7 @@ Hi there, I'm Jiaqi! 👋
 ## I'm a Software Engineer 💻
 
 - 🤝 I’m currently looking for 2024 SDE Co-Op in the US or Canada
-- 🔭 I’m currently working on [Rate NU Professor iOS Application Project](https://github.com/jackiezzz24/RateNUProfessor)
+- 🔭 I’m currently working on [Rate NU Professor iOS Application Project](https://github.com/RateNUProfessor/RateNUProfessor)
 - 🌱 I’m currently learning Computer Science at Northeastern University - San Jose
 - 📫 You can reach me at **jiaqi.zhao24@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FSa78jHIUzpNWqwnJ2O3achu2zuWnkaE/view?usp=drive_link)
