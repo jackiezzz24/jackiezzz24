@@ -10,7 +10,7 @@ Hi there, I'm Jiaqi! 👋
 - 🔭 I’m currently working on [WalletScan Web Application Project](https://github.com/jackiezzz24/WalletScan)
 - 🌱 I’m currently learning Computer Science at Northeastern University - San Jose
 - 📫 You can reach me at **jiaqi.zhao24@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FSa78jHIUzpNWqwnJ2O3achu2zuWnkaE/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1587q4XxRed1L6a_yq4o_GNJ3M7NNmjDw/view?usp=sharing)
  
 ## Connect with me 🤝
 
