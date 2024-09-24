@@ -6,8 +6,7 @@ Hi there, I'm Jiaqi! 👋
 
 ## I'm a Software Engineer 💻
 
-- 🤝 I’m currently looking for 2025 SDE Co-Op in the US or Canada
-- 🔭 I’m currently working on [WalletScan Web Application Project](https://github.com/jackiezzz24/WalletScan)
+- 🤝 I’m currently looking for 2025 SDE Full time Jobs in the US or Canada
 - 🌱 I’m currently learning Computer Science at Northeastern University - San Jose
 - 📫 You can reach me at **jiaqi.zhao24@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/122fAichvSlNQLUIxeyHUzmktliz-Ow8M/view?usp=sharing)
