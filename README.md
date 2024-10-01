@@ -9,7 +9,7 @@ Hi there, I'm Jiaqi! 👋
 - 🤝 I’m currently looking for 2025 SDE Full time Jobs in the US or Canada
 - 🌱 I’m currently learning Computer Science at Northeastern University - San Jose
 - 📫 You can reach me at **jiaqi.zhao24@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/122fAichvSlNQLUIxeyHUzmktliz-Ow8M/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fOPzPpChJWk00XafH_xgSD5qn4FMmmLi/view?usp=sharing)
  
 ## Connect with me 🤝
 
